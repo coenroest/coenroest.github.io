@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
+title: Coen Roest
 email: your-email@domain.com
-url: https://example.github.io
+url: https://coenroest.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Embedded Software Developer - Electrical Engineer - Lecturer"
+meta_author: Roest Coen
 
 # Google webmaster tools
 google_verify:
@@ -31,23 +31,23 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: C. Roest
+  location: Rotterdam
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/coenroest
+  - title: linkedin
+    url: https://www.linkedin.com/in/coen-roest-53b36030
+ # - title: stack-overflow
+ #   url: http://stackoverflow.com/questions/tagged/jekyll
+ # - title: bitbucket
+ #   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/coenroest
 
 # Postal address (add as many lines as necessary)
 address:
