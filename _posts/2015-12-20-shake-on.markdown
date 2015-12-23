@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2015-12-21
+img: shake-on.png
+alt: image-alt
+project-date: Q1 2016
+client: <a target="_blank" href="http://www.shake-on.com">Shake-On</a>
+category: Embedded Software Development
+description: TBA
+
+---
