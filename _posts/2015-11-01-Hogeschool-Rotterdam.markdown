@@ -7,6 +7,5 @@ alt: image-alt
 project-date: Ongoing
 client: <a target="_blank" href="http://www.hr.nl">Hogeschool Rotterdam</a>
 category: Teaching
-description: Teachings C programming, Embedded Systems, maths, basic analog telecommunications, project management and Matlab.
-
+description: Teaching students of the Bachelor of Electrical Engineering to become professionals with the following courses:<br><p>C programming, embedded systems, maths, basic telecommunications, <br>project management and Matlab.</p>
 ---

@@ -4,9 +4,9 @@ modal-id: 1
 date: 2015-12-21
 img: shake-on3.png
 alt: image-alt
-project-date: Q1 2016
+project-date: Q1-Q3 2016
 client: <a target="_blank" href="http://www.shake-on.com">Shake-On</a>
 category: Embedded Software Development
-description: TBA
+description: "<p><b>Shake-on</b> is a Yes!Delft start-up that provides event organisers a way to make events more memorable while gaining interesting insights about their attendees and exhibitors. Attendees receive a smart-bracelet at the entry of an event which can be used to connect to exhibitors, speakers and other attendees.</p><p>Main tasks: developing the Raspberry Pi based scanners and readers that connect the attendees to the exhibitors, speeding up development of the Nordic Semiconductor NRF based smart bracelets, product management.</p>"
 
 ---
