@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Ongoing
 client: <a target="_blank" href="http://www.hr.nl">Hogeschool Rotterdam</a>
 category: Teaching
-description: Teachings analog electronics/telecommunications, maths, C programming and project management.
+description: Teachings C programming, Embedded Systems, maths, basic analog telecommunications, project management and Matlab.
 
 ---
