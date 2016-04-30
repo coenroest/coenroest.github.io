@@ -7,7 +7,8 @@ alt: image-alt
 project-date: Feb-Oct 2015
 client: MSc. Thesis
 category: Research & Embedded Software Development
-description: <p>'Chaos' is a communication primitive for cyber-physical systems - anything that combines sensors, actuators and processors (e.g. cars, drones, smart cities) - that currently works with only one specific system and radio type. <br> </p> <p> I did a <b> feasibility study</b> to find out whether it could also work on <b> Bluetooth Low Energy </b> and demonstrated this with an implementation on the <b> ARM based Nordic Semiconductor NRF51 chip</b>. I also build a 25 node testbed to automate the <b> testing </b> using a combination of bash and python scripting. </p> <br> <p>The project took place at Chalmers University of Technology (Gothenburg, Sweden). </p>
+description: "<p><b>Research project:</b><br>'Chaos' is a communication primitive for cyber-physical systems - anything that combines sensors, actuators and processors (e.g. cars, drones, smart cities) - that currently works with only one specific system and radio type. <br> </p> 
+<p><b>Main responsibilities:</b><br> I did a <b> feasibility study</b> to find out whether it could also work on <b> Bluetooth Low Energy </b> and demonstrated this with an implementation on the <b> ARM based Nordic Semiconductor NRF51 chip</b>. I also build a 25 node testbed to automate the <b> testing </b> using a combination of bash and python scripting. </p> <br> <p>The project took place at Chalmers University of Technology (Gothenburg, Sweden). </p>"
 
 
 ---
