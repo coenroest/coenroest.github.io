@@ -1,15 +1,17 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2015-12-21
-img: shake-on3.png
+img: tag-on_logo.jpg
 alt: image-alt
 project-date: Q1-Q3 2016
 client: <a target="_blank" href="http://www.shake-on.com">Shake-On</a>
 category: Embedded Software Development
-description: "<p><b>Company:</b><br><b>Shake-on</b> is a Yes!Delft start-up that provides event organisers a way to make events more memorable while gaining interesting <b>insights</b> about their attendees and exhibitors. 
-Attendees receive a smart-bracelet at the entry of an event which can be used to <b>connect</b> exhibitors, speakers and other attendees by means of a <b>handshake</b>.
-</p><p><b>Main responsibilities:</b><br>
+description: "<p><b>Company:</b><br><b>Shake-on</b> is a start-up in the Yes!Delft incubator that provides event organisers a way to make events more memorable while gaining interesting <b>insights</b> about their attendees and exhibitors. 
+Attendees receive a smart-bracelet at the entry of an event which can be used to <b>connect</b> exhibitors, speakers and other attendees by means of a <b>handshake</b>.<br>
+
+</p><br> <p></p> <p><b>Main responsibilities:</b><br>
+
 - Development of the Linux based scanners and readers that connect the attendees to the exhibitors <br>
 - Speeding up the development of the Bluetooth LE smart bracelets<br>
 - Consultancy on overall product and project managament<br>"

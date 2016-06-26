@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 1
+date: 2016-06-01
+img: you.jpg
+alt: image-alt
+project-date: Q4-2016
+client: <a target="_blank" href="http://www.coenroest.nl">You?</a>
+category: Embedded Software Development
+description: "<p><b>Company:</b><br>
+Do you have a companee that needs extra brains and hands? From start-ups to larger companies, I can help you to develop your products and give them some smartness! 
+<p><b>Main responsibilities:</b><br>
+
+Let's meet over coffee to see how I can help!"
+
+---
+
+
+
