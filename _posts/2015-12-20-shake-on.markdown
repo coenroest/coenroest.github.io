@@ -12,8 +12,10 @@ Attendees receive a smart-bracelet at the entry of an event which can be used to
 
 </p><br> <p></p> <p><b>Main responsibilities:</b><br>
 
-- Development of the Linux based scanners and readers that connect the attendees to the exhibitors <br>
-- Speeding up the development of the Bluetooth LE smart bracelets<br>
-- Consultancy on overall product and project managament<br>"
+- Speeding up the development of the Bluetooth LE smart bracelets.<br>
+- Development of the Linux based NFC scanners and readers that connect attendees to exhibitors.<br>
+- Setup of proto-duction chain for fast configuration of embedded Linux and deployment of Python apps on the NFC scanners/readers via Ansible.<br>
+- Consultancy on overall product and project managament.<br>
+"
 
 ---
