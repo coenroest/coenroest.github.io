@@ -4,7 +4,7 @@ modal-id: 4
 date: 2015-10-20
 img: chaos_logo.png
 alt: image-alt
-project-date: Feb-Oct 2015
+project-date: Q1-Q3 2015
 client: <a target="_blank" href="http://www.es.ewi.tudelft.nl">MSc. Thesis</a>
 category: Research & Embedded Software Development
 description: "<p><b>Research project:</b><br>'Chaos' is a communication primitive for cyber-physical systems - anything that combines sensors, actuators and processors (e.g. cars, drones, smart cities) - that currently works with only one specific system and radio type. <br> </p> 

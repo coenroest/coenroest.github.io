@@ -1,0 +1,21 @@
+---
+layout: default
+modal-id: 1
+date: 2018-01-01
+img: twtg2.png
+alt: image-alt
+project-date: Ongoing
+client: <a target="_blank" href="http://www.twtg.io">TWTG</a>
+category: Embedded Software Development
+description: "<p><b>Company:</b><br><b>TWTG</b> is the research and development company committed to driving innovation across all areas of technology. ‘Innovation’ is a massively misunderstood term; used too casually and flippantly. But here at TWTG, we’re serious about it. Our mission is to transform technology and incrementally make the mundane magical. To do this, we focus our attention on IoT-connected hardware. <br>
+
+</p><br> <p></p> <p><b>Main responsibilities:</b><br>
+
+- Embedded Software Development for various (wireless) connected products and systems.<br>
+- TWTG scolary involvement (main contact for universities and educational/research projects).<br>
+
+</p><br> <p></p> <p><b>Contact:</b><br>
+Do you want to work with me? <br>
+Send TWTG an email on: info@twtg.io<br></p>
+"
+---
