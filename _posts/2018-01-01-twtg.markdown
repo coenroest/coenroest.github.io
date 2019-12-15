@@ -12,6 +12,7 @@ description: "<p><b>Company:</b><br><b>TWTG</b> is the research and development 
 </p><br> <p></p> <p><b>Main responsibilities:</b><br>
 
 - Embedded Software Development for various (wireless) connected products and systems.<br>
+- System and Software architecture.<br>
 - TWTG scolary involvement (main contact for universities and educational/research projects).<br>
 
 </p><br> <p></p> <p><b>Contact:</b><br>
